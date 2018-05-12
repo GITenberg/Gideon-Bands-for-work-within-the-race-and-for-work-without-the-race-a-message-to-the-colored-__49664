@@ -1,4 +1,8 @@
 _repo: Gideon-Bands-for-work-within-the-race-and-for-work-without-the-race-a-message-to-the-colored-__49664
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49664-h/images/cover.jpg
 creator:
   author:
     agent_name: Grimké, Francis J. (Francis James)
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '37688'
     url: http://www.gutenberg.org/2009/agents/37688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49664#Gideon-Bands-for-work-within-the-race-and-for-work-without-the-race-a-message-to-the-colored-_
 gutenberg_issued: '2015-08-10'
 gutenberg_type: Text
 identifiers:
