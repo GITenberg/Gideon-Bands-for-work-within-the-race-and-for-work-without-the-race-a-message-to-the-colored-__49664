@@ -25,6 +25,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Gideon Bands for work within the race and for work without the race
 
   a message to the colored people of the United States'
